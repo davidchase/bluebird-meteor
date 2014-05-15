@@ -1,6 +1,3 @@
-[submodule "bluebird"]
-	path = lib/bluebird
-	url = git://github.com/petkaantonov/bluebird.git
 [submodule "lib/bluebird"]
 	path = lib/bluebird
 	url = git://github.com/petkaantonov/bluebird.git
