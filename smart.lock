@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bluebird": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "bluebird": {
+        "path": "."
+      }
+    }
+  }
+}
