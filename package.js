@@ -3,8 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    
-    api.export('Promise');
-
-    api.add_files('lib/bluebird/js/browser/bluebird.js', ['client']);
+    api.add_files('lib/bluebird/js/browser/bluebird.js', 'client');
 });
