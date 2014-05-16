@@ -33,4 +33,4 @@ ajaxGetAsync(url).then(function(res){
 
 ```
 
-For more information check out the original [API]('https://github.com/petkaantonov/bluebird/blob/master/API.md').
+For more information check out the original [API](https://github.com/petkaantonov/bluebird/blob/master/API.md).
