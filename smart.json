@@ -4,5 +4,5 @@
   "homepage": "https://github.com/davidchase/bluebird-meteor",
   "author": "David Chase",
   "version": "0.0.1",
-  "git": "git://github.com/davidchase/bluebird-meteor.git"
+  "git": "https://github.com/davidchase/bluebird-meteor.git"
 }
